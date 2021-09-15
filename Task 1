@@ -1,1 +1,30 @@
+The Instructions mentioned here are directly from the Virtual internship of pwc offered by Forage.
+--------------------------------------------------------------------------------------------------
+
+BACKGROUND INFORMATION REGARDING THE TASK:
+
+It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here.
+Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know.
+This email just arrived for you:
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//   Hi Digital Accelerator,                                                                                                                         //
+//                                                                                                                                                   //
+//   May I introduce myself? I'm Claire, Call Centre Manager here at PhoneNow. My colleague suggested I reach out to you. Please to meet             //
+//   you.                                                                                                                                            //
+//                                                                                                                                                   //
+//   I'm looking for transparency and insight into the data we have here at the Call Centre. For example: total number of calls answered and         //
+//   abandoned,speed of answer, length of calls, overall customer satisfaction, etc. What I'm after is an accurate overview of long-term             //
+//   trends in customer and agent behaviour.                                                                                                         //
+//                                                                                                                                                   // 
+//   I was told you are great at visualising data in such a way that important aspects become very clear. That's precisely what I need.              //
+//   Could you please prepare a dashboard on Call Centre trends that I can use as a basis for discussion with the management? I'll provide you       //
+//   with the required data, of course.                                                                                                              //
+//                                                                                                                                                   //
+//   Looking forward to hearing from you.                                                                                                            //
+//                                                                                                                                                   //
+//   Best regards.                                                                                                                                   //
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 
